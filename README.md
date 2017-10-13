@@ -10,4 +10,5 @@ Analyses
 - analysis_RC_feature.m: file for feature-based reverse correlation (RC) analyses
 - analysis_RC_temp.m: file for temporal reverse correlation (RC) analyses
 - model_figure6.m: file with the model
+
 helperFunctions: useful functions that are called by the analysis files above
