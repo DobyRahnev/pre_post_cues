@@ -1,7 +1,7 @@
 %---------------------------------------------
 % analysis_RC_temp
 % The code performs the temporal reverse correlation (RC) analyses in
-% Bang & Rahnev manuscript entitled "Stimulus expectations alters 
+% Bang & Rahnev manuscript entitled "Stimulus expectation alters 
 % decision criterion but not sensory signal in perceptual decision making." 
 % It also creates all panels of Figure 4.
 %

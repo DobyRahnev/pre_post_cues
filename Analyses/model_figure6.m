@@ -1,7 +1,7 @@
 %---------------------------------------------
 % model_figure6
 % The code simulates the model of how the cues affects subjects' choices in
-% Bang & Rahnev manuscript entitled "Stimulus expectations alters 
+% Bang & Rahnev manuscript entitled "Stimulus expectation alters 
 % decision criterion but not sensory signal in perceptual decision making." 
 % It also creates panels B-D of Figure 6.
 %
