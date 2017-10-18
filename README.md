@@ -1,4 +1,4 @@
-Data and code for paper titled "Stimulus expectations alters decision criterion but not sensory signal in perceptual decision making" by Bang & Rahnev.
+Data and code for paper titled "Stimulus expectation alters decision criterion but not sensory signal in perceptual decision making" by Bang & Rahnev.
 
 Both data and code are in MATLAB (tested on version 2016a). Here is a guideline to the folders:
 
